@@ -165,7 +165,10 @@
 				"D:/Valorant/UE_5.6/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
 				"D:/Valorant/UE_5.6/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderCustomHeightmap_01.uasset",
 				"D:/Valorant/UE_5.6/Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset",
-				"D:/GitHub/3DUnrealPlatformer/Platformer/Content/Assets/Materials/M_Yellow.uasset"
+				"D:/GitHub/3DUnrealPlatformer/Platformer/Content/Assets/Materials/M_Yellow.uasset",
+				"D:/GitHub/3DUnrealPlatformer/Platformer/Content/Assets/Meshes/Lester.uasset",
+				"D:/GitHub/3DUnrealPlatformer/Platformer/Content/Assets/Materials/Lester_Color.uasset",
+				"D:/GitHub/3DUnrealPlatformer/Platformer/Content/Assets/Materials/M_Lester.uasset"
 			]
 		}
 	]
